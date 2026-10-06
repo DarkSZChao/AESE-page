@@ -1,0 +1,8 @@
+/* Small static-hosting adaptations; the original Academix theme is preserved. */
+.legacy-unavailable { min-height: 55vh; padding-top: 60px; padding-bottom: 60px; }
+.legacy-unavailable h1 { margin-bottom: 25px; }
+.navbar-nav .dropdown:focus-within > .dropdown-menu { display: block; }
+.navbar-brand img { max-width: 100%; }
+@media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+}

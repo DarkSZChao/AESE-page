@@ -1,0 +1,460 @@
+{
+  "source": "https://wp.doc.ic.ac.uk/aese/",
+  "captured_date": "2026-10-06",
+  "pages": [
+    {
+      "path": "",
+      "source": "https://wp.doc.ic.ac.uk/aese/",
+      "title": "Adaptive Emergent Systems Engineering – Imperial College London"
+    },
+    {
+      "path": "events/2020-presidents-medal-for-excellence-in-research/",
+      "source": "https://wp.doc.ic.ac.uk/aese/events/2020-presidents-medal-for-excellence-in-research/",
+      "title": "2020 President’s Medal for Excellence in Research – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/find-us/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/find-us/",
+      "title": "Find Us – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/people/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/people/",
+      "title": "People – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/people/alumni/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/people/alumni/",
+      "title": "Alumni – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/people/associates-and-external-collaborators/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/people/associates-and-external-collaborators/",
+      "title": "External Associates and Collaborators – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/people/phd-students/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/people/phd-students/",
+      "title": "Ph.D. Students – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/people/research-associates/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/people/research-associates/",
+      "title": "Research Associates – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/people/vacancies/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/people/vacancies/",
+      "title": "Vacancies – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/cyber-physical-systems/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/cyber-physical-systems/",
+      "title": "Cyber-Physical Systems – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/cyber-physical-systems/context-aware-systems-and-programming/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/cyber-physical-systems/context-aware-systems-and-programming/",
+      "title": "Context Aware Systems and Programming – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/cyber-physical-systems/project-cps-ctrl-reliable-distributed-adaptive-control-for-next-generation-cyber-physical-systems/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/cyber-physical-systems/project-cps-ctrl-reliable-distributed-adaptive-control-for-next-generation-cyber-physical-systems/",
+      "title": "CPS-Ctrl: Reliable Distributed adaptive Control for Next Generation Cyber-physical Systems – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/datacentric-engineering/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/datacentric-engineering/",
+      "title": "Datacentric Engineering – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/datacentric-engineering/constructing-a-real-time-cognitive-map-for-visually-impaired-individuals/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/datacentric-engineering/constructing-a-real-time-cognitive-map-for-visually-impaired-individuals/",
+      "title": "Constructing a Real-Time Cognitive Map for Visually Impaired Individuals – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/energy-neutral-operation/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/energy-neutral-operation/",
+      "title": "Energy Neutral Operation (ENO) – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/energy-neutral-operation/decentralised-energy-harvesting/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/energy-neutral-operation/decentralised-energy-harvesting/",
+      "title": "Decentralised Energy Harvesting – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/infrastructureless-sensing/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/infrastructureless-sensing/",
+      "title": "Infrastructure-less Sensing – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/infrastructureless-sensing/data-mules/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/infrastructureless-sensing/data-mules/",
+      "title": "Data Mules – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/logistic-4-0/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/logistic-4-0/",
+      "title": "Logistics 4.0 – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/rf-shadowing/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/rf-shadowing/",
+      "title": "RF Sensing – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/rf-shadowing/cognisense/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/rf-shadowing/cognisense/",
+      "title": "CogniSense – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/rf-shadowing/drone-self-monitoring/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/rf-shadowing/drone-self-monitoring/",
+      "title": "Drone Self-Monitoring – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/rf-shadowing/sing/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/rf-shadowing/sing/",
+      "title": "RF Sensing in Grapes (SING) – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/security-safety-and-resilience/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/security-safety-and-resilience/",
+      "title": "Security, Safety and Resilience – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/security-safety-and-resilience/decentralised-edge-compute-and-multi-tenancy/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/security-safety-and-resilience/decentralised-edge-compute-and-multi-tenancy/",
+      "title": "Decentralised Edge-Compute and Multi-Tenancy – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/security-safety-and-resilience/secret-key-generation-from-wireless-channel-randomness/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/security-safety-and-resilience/secret-key-generation-from-wireless-channel-randomness/",
+      "title": "Secret Key Generation from Wireless Channel Randomness – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/security-safety-and-resilience/self-adaptive-autonomics-and-emergence/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/security-safety-and-resilience/self-adaptive-autonomics-and-emergence/",
+      "title": "Self-Adaptive, Autonomics and Emergence – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/security-safety-and-resilience/sensor-systems-security/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/security-safety-and-resilience/sensor-systems-security/",
+      "title": "Sensor Systems Security – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/sensing-challenge/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/sensing-challenge/",
+      "title": "Sensing in Challenging Environments – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/sensing-challenge/fuse-floodplain-underground-sensor-network/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/sensing-challenge/fuse-floodplain-underground-sensor-network/",
+      "title": "FUSE- Floodplain Underground Sensor Network – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/sustainability/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/sustainability/",
+      "title": "Sustainability & Smart Environments – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/sustainability/icri-sustainable-connected-cities-institute/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/sustainability/icri-sustainable-connected-cities-institute/",
+      "title": "ICRI Sustainable Connected Cities Institute – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/sustainability/singapore-eco-lab/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/sustainability/singapore-eco-lab/",
+      "title": "Singapore Eco Lab – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/sustainability/smart-water-projects/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/sustainability/smart-water-projects/",
+      "title": "Smart Water Projects – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/sustainability/wefwebs-mapping-the-water-energy-food-nexus/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/sustainability/wefwebs-mapping-the-water-energy-food-nexus/",
+      "title": "WefWebs: Mapping the Water Energy Food Nexus – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/wireless-communications/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/wireless-communications/",
+      "title": "Wireless Communications – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/wireless-communications/lora-modelling-performance-analysis-and-optimization/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/wireless-communications/lora-modelling-performance-analysis-and-optimization/",
+      "title": "LoRa: Modelling,  Performance Analysis and Optimization – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/wireless-communications/lora-networks-powered-by-ambient-energy-harvesting/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/wireless-communications/lora-networks-powered-by-ambient-energy-harvesting/",
+      "title": "LoRa Networks Powered by Ambient Energy Harvesting – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "home/research/wireless-communications/non-orthogonal-multiple-access-noma-enabled-lpwa-networks/",
+      "source": "https://wp.doc.ic.ac.uk/aese/home/research/wireless-communications/non-orthogonal-multiple-access-noma-enabled-lpwa-networks/",
+      "title": "Non-Orthogonal Multiple Access (NOMA) Enabled LPWA Networks – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "introducing-the-cdt-phd-programme/",
+      "source": "https://wp.doc.ic.ac.uk/aese/introducing-the-cdt-phd-programme/",
+      "title": "Introducing the DiveIn CDT PhD Programme – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/4652/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/4652/",
+      "title": "Dr Attique Dawood – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-aisha-junejo/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-aisha-junejo/",
+      "title": "Dr Aisha Junejo – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-anqi-fu/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-anqi-fu/",
+      "title": "Dr Anqi Fu – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-babu-choudhary/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-babu-choudhary/",
+      "title": "Dr Babu Choudhary – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-cong-zhao/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-cong-zhao/",
+      "title": "Dr Cong Zhao – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-di-wu/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-di-wu/",
+      "title": "Dr Di Wu – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-eskindir-asmare/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-eskindir-asmare/",
+      "title": "Dr Eskindir Asmare – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-fatma-benkhelifa/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-fatma-benkhelifa/",
+      "title": "Dr Fatma Benkhelifa – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-fengrui-shi/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-fengrui-shi/",
+      "title": "Dr Fengrui Shi – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-ivana-tomic/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-ivana-tomic/",
+      "title": "Dr Ivana Tomic – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-mehrdad-babazadeh/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-mehrdad-babazadeh/",
+      "title": "Dr Mehrdad Babazadeh – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-michael-breza/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-michael-breza/",
+      "title": "Dr Michael Breza – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-milan-kabac/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-milan-kabac/",
+      "title": "Dr Milan Kabáč – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-mohammad-heggo/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-mohammad-heggo/",
+      "title": "Dr Mohammad Heggo – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-pamela-bezerra/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-pamela-bezerra/",
+      "title": "Dr Pamela Bezerra – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-pedro-baiz/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-pedro-baiz/",
+      "title": "Dr Pedro Baiz – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-pedro-martins/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-pedro-martins/",
+      "title": "Dr Pedro Martins – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-po-yu-chen/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-po-yu-chen/",
+      "title": "Dr Po-Yu Chen – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-rajkumar-rajprasad-kumar/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-rajkumar-rajprasad-kumar/",
+      "title": "Dr Rajkumar, Rajprasad Kumar – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-reza-akhavan/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-reza-akhavan/",
+      "title": "Dr Reza Akhavan – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-roman-kolcun/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-roman-kolcun/",
+      "title": "Dr Roman Kolcun – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-sokratis-kartakis/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-sokratis-kartakis/",
+      "title": "Dr Sokratis Kartakis – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-usman-adeel/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-usman-adeel/",
+      "title": "Dr Usman Adeel – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-weiren-yu/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-weiren-yu/",
+      "title": "Dr Weiren Yu – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-yad-tahir/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-yad-tahir/",
+      "title": "Dr Yad Tahir – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-yunxi-li/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-yunxi-li/",
+      "title": "Dr Yunxi Li – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/dr-zhijin-qin/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/dr-zhijin-qin/",
+      "title": "Dr Zhijin Qin – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/hadeel-surougi/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/hadeel-surougi/",
+      "title": "Hadeel Surougi – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/heba-abdelnasser-awad/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/heba-abdelnasser-awad/",
+      "title": "Heba Abdelnasser Awad – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/julie-a-mccann/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/julie-a-mccann/",
+      "title": "Prof. Julie A. McCann (Head of AESE) – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/kaihan-li/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/kaihan-li/",
+      "title": "Kaihan Li – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/kunyi-chen/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/kunyi-chen/",
+      "title": "Ms Kunyi Chen – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/mr-boon-wong/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/mr-boon-wong/",
+      "title": "Dr. Denver Wong Boon Chun – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/mr-greg-jackson/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/mr-greg-jackson/",
+      "title": "Dr Greg Jackson – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/mr-laksh-bhatia/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/mr-laksh-bhatia/",
+      "title": "Mr Laksh Bhatia – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/mr-shuokang-huang/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/mr-shuokang-huang/",
+      "title": "Mr Shuokang Huang  – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/mr-zhenfei-zhu/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/mr-zhenfei-zhu/",
+      "title": "Mr Zhenfei Zhu – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/ms-eman-maali/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/ms-eman-maali/",
+      "title": "Ms Eman Maali – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/ms-yathreb-bouazizi/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/ms-yathreb-bouazizi/",
+      "title": "Ms Yathreb Bouazizi – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/professor-shusen-yang/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/professor-shusen-yang/",
+      "title": "Professor Shusen Yang – Adaptive Emergent Systems Engineering"
+    },
+    {
+      "path": "people/youssef-altherwy/",
+      "source": "https://wp.doc.ic.ac.uk/aese/people/youssef-altherwy/",
+      "title": "Mr Youssef Altherwy – Adaptive Emergent Systems Engineering"
+    }
+  ],
+  "aliases": {
+    "people/julie-mccann/": "people/julie-a-mccann/",
+    "energy-neutral-operation/": "home/research/energy-neutral-operation/",
+    "cyber-physical-systems/": "home/research/cyber-physical-systems/",
+    "datacentric-engineering/": "home/research/datacentric-engineering/",
+    "infrastructureless-sensing/": "home/research/infrastructureless-sensing/",
+    "security-safety-and-resilience/": "home/research/security-safety-and-resilience/",
+    "rf-shadowing/": "home/research/rf-shadowing/",
+    "sensing-challenge/": "home/research/sensing-challenge/",
+    "wireless-communications/": "home/research/wireless-communications/",
+    "sustainability/": "home/research/sustainability/",
+    "person/julie-a-mccann/": "people/julie-a-mccann/"
+  },
+  "unavailable_pages": [
+    "https://wp.doc.ic.ac.uk/aese/home/research/datacentric-engineering/incentivisation-of-participatory-federated-learning/",
+    "https://wp.doc.ic.ac.uk/aese/human-centric-sensing",
+    "https://wp.doc.ic.ac.uk/aese/project-adaptive-machine-learning-for-changing-environments",
+    "https://wp.doc.ic.ac.uk/aese/project-failure-localisation-and-diagnosis-in-wireless-sensor-networks/",
+    "https://wp.doc.ic.ac.uk/aese/project-organicity/",
+    "https://wp.doc.ic.ac.uk/aese/project/self-generating-space-sensing-systems/",
+    "https://wp.doc.ic.ac.uk/aese/people/mr-michael-johnson/"
+  ],
+  "assets_downloaded": 317,
+  "asset_errors": [
+    {
+      "url": "https://wp.doc.ic.ac.uk/aese/wp-content/themes/academix/assets/img/icon/arrow_bg.png",
+      "error": "404 Client Error: Not Found for url: https://wp.doc.ic.ac.uk/aese/wp-content/themes/academix/assets/img/icon/arrow_bg.png"
+    },
+    {
+      "url": "https://wp.doc.ic.ac.uk/aese/wp-content/themes/academix/assets/img/icon/arrow_bg_bottom.png",
+      "error": "404 Client Error: Not Found for url: https://wp.doc.ic.ac.uk/aese/wp-content/themes/academix/assets/img/icon/arrow_bg_bottom.png"
+    },
+    {
+      "url": "https://wp.doc.ic.ac.uk/aese/wp-content/themes/academix/assets/img/icon/penlam_bg.png",
+      "error": "404 Client Error: Not Found for url: https://wp.doc.ic.ac.uk/aese/wp-content/themes/academix/assets/img/icon/penlam_bg.png"
+    },
+    {
+      "url": "https://wp.doc.ic.ac.uk/aese/wp-content/themes/academix/assets/img/section/halfbol.jpg",
+      "error": "404 Client Error: Not Found for url: https://wp.doc.ic.ac.uk/aese/wp-content/themes/academix/assets/img/section/halfbol.jpg"
+    },
+    {
+      "url": "https://wp.doc.ic.ac.uk/aese/wp-content/themes/academix/assets/img/icon/arrow_bg_lgx.png",
+      "error": "404 Client Error: Not Found for url: https://wp.doc.ic.ac.uk/aese/wp-content/themes/academix/assets/img/icon/arrow_bg_lgx.png"
+    },
+    {
+      "url": "https://lorempixel.com/people/1200/1000",
+      "error": "429 Client Error: Too Many Requests for url: https://lorempixel.com/people/1200/1000"
+    }
+  ]
+}
