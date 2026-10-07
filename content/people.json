@@ -1,0 +1,501 @@
+{
+  "groups": [
+    {
+      "id": "leadership",
+      "title": "Leadership"
+    },
+    {
+      "id": "associates",
+      "title": "Research associates"
+    },
+    {
+      "id": "phd",
+      "title": "PhD students"
+    },
+    {
+      "id": "collaborators",
+      "title": "Collaborators"
+    },
+    {
+      "id": "alumni",
+      "title": "Alumni"
+    }
+  ],
+  "people": [
+    {
+      "path": "people/julie-a-mccann/",
+      "name": "Professor Julie A. McCann",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/06/0200226_department_of_computing_174-1-360x270.jpg",
+      "groups": [
+        "leadership"
+      ],
+      "roles": [
+        "Group Leader"
+      ]
+    },
+    {
+      "path": "people/4652/",
+      "name": "Dr Attique Dawood",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2022/09/attique_image.jpg",
+      "groups": [
+        "associates"
+      ],
+      "roles": [
+        "Research associates"
+      ]
+    },
+    {
+      "path": "people/dr-michael-breza/",
+      "name": "Dr Michael Breza",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/michael-breza-350x270.jpg",
+      "groups": [
+        "associates"
+      ],
+      "roles": [
+        "Research associates"
+      ]
+    },
+    {
+      "path": "people/dr-mohammad-heggo/",
+      "name": "Dr Mohammad Heggo",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/MohammadHeggo-350x270.jpg",
+      "groups": [
+        "associates"
+      ],
+      "roles": [
+        "Research associates"
+      ]
+    },
+    {
+      "path": "people/dr-po-yu-chen/",
+      "name": "Dr Po-Yu Chen",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/05/Po-Yu-350x270.jpg",
+      "groups": [
+        "associates"
+      ],
+      "roles": [
+        "Research associates"
+      ]
+    },
+    {
+      "path": "people/dr-rajkumar-rajprasad-kumar/",
+      "name": "Dr Rajkumar, Rajprasad Kumar",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2022/09/Rajprasad_image-360x270.jpg",
+      "groups": [
+        "associates"
+      ],
+      "roles": [
+        "Research associates"
+      ]
+    },
+    {
+      "path": "people/ms-yathreb-bouazizi/",
+      "name": "Ms Yathreb Bouazizi",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/Yathreb4-360x270.png",
+      "groups": [
+        "associates"
+      ],
+      "roles": [
+        "Research associates"
+      ]
+    },
+    {
+      "path": "people/hadeel-surougi/",
+      "name": "Hadeel Surougi",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/H-Photo_350x400-350x270.png",
+      "groups": [
+        "phd"
+      ],
+      "roles": [
+        "PhD students"
+      ]
+    },
+    {
+      "path": "people/heba-abdelnasser-awad/",
+      "name": "Heba Abdelnasser Awad",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/prof2-350x270.jpeg",
+      "groups": [
+        "phd"
+      ],
+      "roles": [
+        "PhD students"
+      ]
+    },
+    {
+      "path": "people/kaihan-li/",
+      "name": "Kaihan Li",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2022/09/IMG_0392-360x270.jpg",
+      "groups": [
+        "phd"
+      ],
+      "roles": [
+        "PhD students"
+      ]
+    },
+    {
+      "path": "people/mr-shuokang-huang/",
+      "name": "Mr Shuokang Huang",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2022/09/shuo-270x270.png",
+      "groups": [
+        "phd"
+      ],
+      "roles": [
+        "PhD students"
+      ]
+    },
+    {
+      "path": "people/ms-eman-maali/",
+      "name": "Ms Eman Maali",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2023/02/MicrosoftTeams-image-360x270.jpg",
+      "groups": [
+        "phd"
+      ],
+      "roles": [
+        "PhD students"
+      ]
+    },
+    {
+      "path": "people/dr-aisha-junejo/",
+      "name": "Dr Aisha Junejo",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/aishaPhoto1-1-350x270.jpeg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-anqi-fu/",
+      "name": "Dr Anqi Fu",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/05/FU_-Anqi-120x160-1.jpg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-cong-zhao/",
+      "name": "Dr Cong Zhao",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/Portrait-CongZhao-350x400-1-350x270.jpg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-fatma-benkhelifa/",
+      "name": "Dr Fatma Benkhelifa",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/resize-15943151981425998338DSC02622-350x270.jpg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-ivana-tomic/",
+      "name": "Dr Ivana Tomic",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/DP52578-120x160-1.jpg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-pamela-bezerra/",
+      "name": "Dr Pamela Bezerra",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/05/photo_pamela_desk-350x270.jpg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-pedro-baiz/",
+      "name": "Dr Pedro Baiz",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/ped-120x160-1.png",
+      "groups": [
+        "collaborators"
+      ],
+      "roles": [
+        "Collaborators"
+      ]
+    },
+    {
+      "path": "people/dr-roman-kolcun/",
+      "name": "Dr Roman Kolcun",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/05/rk1208_web.jpg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-weiren-yu/",
+      "name": "Dr Weiren Yu",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/05/weirenyu-e1401795041923-120x160-1.jpg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-yunxi-li/",
+      "name": "Dr Yunxi Li",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/li-120x160-1.png",
+      "groups": [
+        "collaborators"
+      ],
+      "roles": [
+        "Collaborators"
+      ]
+    },
+    {
+      "path": "people/dr-zhijin-qin/",
+      "name": "Dr Zhijin Qin",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/zhijin-120x160-1.jpg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/mr-laksh-bhatia/",
+      "name": "Mr Laksh Bhatia",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/laksh_bhatia-350x270.jpg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/kunyi-chen/",
+      "name": "Ms Kunyi Chen",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/12/kunyi1-350x270.png",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/professor-shusen-yang/",
+      "name": "Professor Shusen Yang",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/05/Shusen-120x160-1.jpg",
+      "groups": [
+        "collaborators",
+        "alumni"
+      ],
+      "roles": [
+        "Collaborators",
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-babu-choudhary/",
+      "name": "Dr Babu Choudhary",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/05/BDC-120x160-1.jpg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-di-wu/",
+      "name": "Dr Di Wu",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/di-120x160-1.jpg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-eskindir-asmare/",
+      "name": "Dr Eskindir Asmare",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/easmare-120x160-1.jpg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-fengrui-shi/",
+      "name": "Dr Fengrui Shi",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/picsmall-120x160-1.jpg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/mr-greg-jackson/",
+      "name": "Dr Greg Jackson",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/05/Greg-Jackson-120x160-1.jpg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-mehrdad-babazadeh/",
+      "name": "Dr Mehrdad Babazadeh",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/Mehrdad_New-Pic_1-120x160-1.jpeg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-milan-kabac/",
+      "name": "Dr Milan Kabáč",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/05/milan_kabac_photo-120x160-1.png",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-pedro-martins/",
+      "name": "Dr Pedro Martins",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/Pedro-Martins09-e13932367629441-120x160-1.jpg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-reza-akhavan/",
+      "name": "Dr Reza Akhavan",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/RezaPhoto-120x160-1.jpeg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-sokratis-kartakis/",
+      "name": "Dr Sokratis Kartakis",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/site_face_120x160.png",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-usman-adeel/",
+      "name": "Dr Usman Adeel",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/usmanphotograph-120x160-1.jpg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/dr-yad-tahir/",
+      "name": "Dr Yad Tahir",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/phot-120x160-1.png",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/mr-boon-wong/",
+      "name": "Dr. Denver Wong Boon Chun",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/06/denver.jpg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/youssef-altherwy/",
+      "name": "Mr Youssef Altherwy",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/Youssef-1-350x270.jpg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    },
+    {
+      "path": "people/mr-zhenfei-zhu/",
+      "name": "Mr Zhenfei Zhu",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/07/350p-x-400-p-350x270.jpg",
+      "groups": [
+        "alumni"
+      ],
+      "roles": [
+        "Alumni"
+      ]
+    }
+  ]
+}

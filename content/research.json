@@ -1,0 +1,267 @@
+{
+  "groups": [
+    {
+      "id": "sensing",
+      "title": "Sensing & perception",
+      "short_title": "Sensing",
+      "description": "Discovering what radio signals and sensor networks can tell us about the physical world, from machine monitoring to sensing in difficult environments."
+    },
+    {
+      "id": "connected",
+      "title": "Connected & adaptive systems",
+      "short_title": "Connected systems",
+      "description": "Engineering wireless networks and cyber-physical systems that adapt, collaborate and operate under real-world constraints."
+    },
+    {
+      "id": "resilient",
+      "title": "Secure & resilient infrastructure",
+      "short_title": "Resilience",
+      "description": "Understanding failure, security and decentralised computation to build dependable systems for critical infrastructure and logistics."
+    },
+    {
+      "id": "sustainable",
+      "title": "Sustainable & intelligent environments",
+      "short_title": "Sustainability",
+      "description": "Connecting data-centric engineering, energy-neutral computation and smart environments to make better use of limited resources."
+    }
+  ],
+  "themes": [
+    {
+      "path": "home/research/cyber-physical-systems/",
+      "title": "Cyber-Physical Systems",
+      "summary": "Adaptive software and distributed control at the interface of computation and the physical world.",
+      "group": "connected",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/Cyper-Physical_system-2_2.png"
+    },
+    {
+      "path": "home/research/datacentric-engineering/",
+      "title": "Datacentric Engineering",
+      "summary": "Data-driven models and machine learning for engineering and sensing applications.",
+      "group": "sustainable",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/Data-Centric-Engineering-and-Machine-Learning2-2.png"
+    },
+    {
+      "path": "home/research/energy-neutral-operation/",
+      "title": "Energy Neutral Operation (ENO)",
+      "summary": "Energy harvesting and resource-aware operation for low-power systems.",
+      "group": "sustainable",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/Energy-Neutral-Operation2-2.png"
+    },
+    {
+      "path": "home/research/infrastructureless-sensing/",
+      "title": "Infrastructure-less Sensing",
+      "summary": "Sensing and sharing information through mobile, collaborative networks.",
+      "group": "sensing",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/Infrastructure-less-Sensing-2.png"
+    },
+    {
+      "path": "home/research/logistic-4-0/",
+      "title": "Logistics 4.0",
+      "summary": "Connecting sensing, security and digital systems to the challenges of modern logistics.",
+      "group": "resilient",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/Data-Centric-Engineering-and-Machine-Learning2-2.png"
+    },
+    {
+      "path": "home/research/rf-shadowing/",
+      "title": "RF Sensing",
+      "summary": "Using everyday radio signals to sense machines, agriculture and human activity.",
+      "group": "sensing",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/RF-shadwoing_2.png"
+    },
+    {
+      "path": "home/research/security-safety-and-resilience/",
+      "title": "Security, Safety and Resilience",
+      "summary": "Secure sensor systems, dependable edge computing and resilience under failure.",
+      "group": "resilient",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/Safety-Security-and-Resilience_2.png"
+    },
+    {
+      "path": "home/research/sensing-challenge/",
+      "title": "Sensing in Challenging Environments",
+      "summary": "Sensor systems for underground and other challenging physical environments.",
+      "group": "sensing",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/Sensing-in-Challenging-Environments_2.png"
+    },
+    {
+      "path": "home/research/sustainability/",
+      "title": "Sustainability & Smart Environments",
+      "summary": "Sensor-driven approaches to cities, water systems and the water–energy–food nexus.",
+      "group": "sustainable",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/Sustainability-Smart-Enviroments_2.png"
+    },
+    {
+      "path": "home/research/wireless-communications/",
+      "title": "Wireless Communications",
+      "summary": "Modelling and optimising low-power wireless communication networks.",
+      "group": "connected",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/Wirless-Communications_2.png"
+    }
+  ],
+  "projects": [
+    {
+      "path": "home/research/cyber-physical-systems/project-cps-ctrl-reliable-distributed-adaptive-control-for-next-generation-cyber-physical-systems/",
+      "title": "CPS-Ctrl: Reliable Distributed adaptive Control for next generation Cyber-physical Systems",
+      "summary": "Develops integrated self-adaptive protocols that support distributed and collaborative analysis, prediction and control mathematics",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/4.CPS_.jpg",
+      "group": "connected",
+      "theme": "Cyber-Physical Systems"
+    },
+    {
+      "path": "home/research/sensing-challenge/fuse-floodplain-underground-sensor-network/",
+      "title": "FUSE- Floodplain Underground Sensor Network.",
+      "summary": "Designs and deploys a high‐density, wireless, underground sensor network to quantify floodplain hydro‐ecological interactions for optimal environmental management",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/soil.png",
+      "group": "connected",
+      "theme": "Cyber-Physical Systems"
+    },
+    {
+      "path": "home/research/cyber-physical-systems/context-aware-systems-and-programming/",
+      "title": "Context Aware Systems and Programming",
+      "summary": "Using distributed, agile and scalable approaches to define, implement and manage environmental context in computing systems",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/contextaware.jpg",
+      "group": "connected",
+      "theme": "Cyber-Physical Systems"
+    },
+    {
+      "path": "home/research/sustainability/icri-sustainable-connected-cities-institute/",
+      "title": "ICRI Sustainable Connected Cities Institute",
+      "summary": "Enabling future cities to be more connected and sustainable to enhance the quality of life of urban inhabitants and city visitors",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/city-network.jpg",
+      "group": "connected",
+      "theme": "Cyber-Physical Systems"
+    },
+    {
+      "path": "home/research/security-safety-and-resilience/self-adaptive-autonomics-and-emergence/",
+      "title": "Self-Adaptive, Autonomics and Emergence",
+      "summary": "Using lightweight and highly decentralised theme with highly distributed adaptivity control and autonomic function to make systems more agile and scalable in low-resourced devices",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/autonomic.png",
+      "group": "connected",
+      "theme": "Cyber-Physical Systems"
+    },
+    {
+      "path": "home/research/datacentric-engineering/constructing-a-real-time-cognitive-map-for-visually-impaired-individuals/",
+      "title": "Constructing a Real-Time Cognitive Map for Visually Impaired Individuals",
+      "summary": "Integrating SLAM and deep learning to assist visually impaired in constructing a cognitive map",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/slam-1.png",
+      "group": "sustainable",
+      "theme": "Datacentric Engineering"
+    },
+    {
+      "path": "home/research/energy-neutral-operation/decentralised-energy-harvesting/",
+      "title": "Decentralised Energy Harvesting",
+      "summary": "Using battery-less sensing systems to enable sustainable operation for sensing applications",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/ENO-Final-1024x567-1.png",
+      "group": "sustainable",
+      "theme": "Energy Neutral Operation (ENO)"
+    },
+    {
+      "path": "home/research/wireless-communications/lora-networks-powered-by-ambient-energy-harvesting/",
+      "title": "LoRa Networks Powered by Ambient Energy Harvesting",
+      "summary": "Studying the potential of ambient energy harvesting in supporting diverse iot applications",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/radio-harvesting.png",
+      "group": "sustainable",
+      "theme": "Energy Neutral Operation (ENO)"
+    },
+    {
+      "path": "home/research/infrastructureless-sensing/data-mules/",
+      "title": "Data Mules",
+      "summary": "Optimising the performance of mobile devices in relaying sensor data from sensors to required destinations",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/mule.jpg",
+      "group": "sensing",
+      "theme": "Infrastructure-less Sensing"
+    },
+    {
+      "path": "home/research/rf-shadowing/cognisense/",
+      "title": "CogniSense",
+      "summary": "Identifying the electromagnetic signature on the propagating RF signal to extract different machine properties",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/CogniSense.png",
+      "group": "sensing",
+      "theme": "RF Sensing"
+    },
+    {
+      "path": "home/research/rf-shadowing/drone-self-monitoring/",
+      "title": "Drone Self-Monitoring",
+      "summary": "Integrating RF sensing with other drone  sensors to provide more reliable performance in critical cases",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/drone-self-monitoring.jpg",
+      "group": "sensing",
+      "theme": "RF Sensing"
+    },
+    {
+      "path": "home/research/rf-shadowing/sing/",
+      "title": "Sensing in Grapes  (SING)",
+      "summary": "Estimating the moisture content inside agricultural products through the analysis of dielectric properties",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/SING_2.jpg",
+      "group": "sensing",
+      "theme": "RF Sensing"
+    },
+    {
+      "path": "home/research/security-safety-and-resilience/sensor-systems-security/",
+      "title": "Sensor Systems Security",
+      "summary": "Focuses on overcoming potential conflicts in security implications caused by algorithms and protocols used in overcoming system constraints and failures in distributed networked control and actuator networks",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/contextaware.jpg",
+      "group": "resilient",
+      "theme": "Security, Safety and Resilience"
+    },
+    {
+      "path": "home/research/security-safety-and-resilience/decentralised-edge-compute-and-multi-tenancy/",
+      "title": "Decentralised Edge-Compute and Multi-Tenancy",
+      "summary": "Using highly-decentralised, lightweight techniques to maximise the highly heterogeneous computational mix of devices",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/edgecomp.jpg",
+      "group": "resilient",
+      "theme": "Security, Safety and Resilience"
+    },
+    {
+      "path": "home/research/security-safety-and-resilience/secret-key-generation-from-wireless-channel-randomness/",
+      "title": "Secret Key Generation from Wireless Channel Randomness",
+      "summary": "Secret keys are generated with physical layer security (PLS) schemes using the randomness of the channel parameters.",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2021/08/poster-1-500x300-1.jpeg",
+      "group": "resilient",
+      "theme": "Security, Safety and Resilience"
+    },
+    {
+      "path": "home/research/sustainability/singapore-eco-lab/",
+      "title": "Singapore Eco Lab",
+      "summary": "Examines sensing systems to support the operation of housing development to design and maintain housing assets such as lifts, buildings, roads, water and waste",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/singapore.jpg",
+      "group": "sustainable",
+      "theme": "Sustainability & Smart Environments"
+    },
+    {
+      "path": "home/research/sustainability/smart-water-projects/",
+      "title": "Smart Water Projects",
+      "summary": "Examines the technologies, protocols, and algorithms that are required to maximise the usage and lifetimes of modern water networks while minimising their costs",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/diagram1-1024x372-1.png",
+      "group": "sustainable",
+      "theme": "Sustainability & Smart Environments"
+    },
+    {
+      "path": "home/research/sustainability/wefwebs-mapping-the-water-energy-food-nexus/",
+      "title": "Wefwebs",
+      "summary": "Developed the sensors and tools to support data and evidence around the water, energy and food systems their interactions and dependencies for Vineyards and Wineries",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/08/water-food-energy.png",
+      "group": "sustainable",
+      "theme": "Sustainability & Smart Environments"
+    },
+    {
+      "path": "home/research/wireless-communications/lora-modelling-performance-analysis-and-optimization/",
+      "title": "LoRa: Modelling,  Performance Analysis and Optimisation",
+      "summary": "Developing models and algorithms to analyse and optimise LoRa-based networks",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/LoRaNetwork-1.png",
+      "group": "connected",
+      "theme": "Wireless Communications"
+    },
+    {
+      "path": "home/research/wireless-communications/non-orthogonal-multiple-access-noma-enabled-lpwa-networks/",
+      "title": "Non-Orthogonal Multiple Access (NOMA) Enabled LPWA Networks",
+      "summary": "Efficiently designing algorithms that optimise the resource allocation (RA) for LPWAN",
+      "image": "assets/legacy/wp-content/uploads/sites/143/2020/09/NOMA.png",
+      "group": "connected",
+      "theme": "Wireless Communications"
+    }
+  ],
+  "featured": [
+    "home/research/rf-shadowing/cognisense/",
+    "home/research/sustainability/smart-water-projects/",
+    "home/research/cyber-physical-systems/project-cps-ctrl-reliable-distributed-adaptive-control-for-next-generation-cyber-physical-systems/"
+  ]
+}

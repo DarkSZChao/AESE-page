@@ -9,6 +9,8 @@ from pathlib import Path
 import re
 import shutil
 
+from site_content import render_collections
+
 
 def _inside(directory: Path, relative_path: str) -> Path:
     if not isinstance(relative_path, str) or "\\" in relative_path:
@@ -50,7 +52,7 @@ class _NavigationParser(HTMLParser):
         self.source = source
         self.current_path = current_path
         self.section = (
-            "research" if current_path.startswith("home/research/")
+            "research" if current_path.startswith(("home/research/", "research/"))
             else "people" if current_path.startswith(("people/", "home/people/"))
             else ""
         )
@@ -82,7 +84,7 @@ class _NavigationParser(HTMLParser):
             if target.endswith("index.html"):
                 target = target[:-len("index.html")]
             section = (
-                "research" if target.startswith("home/research/")
+                "research" if target.startswith(("home/research/", "research/"))
                 else "people" if target.startswith(("people/", "home/people/"))
                 else ""
             )
@@ -90,6 +92,10 @@ class _NavigationParser(HTMLParser):
                 self.stack[0]["classes"].extend(["active", "current-menu-ancestor", "current_page_ancestor"])
             exact_match = target.rstrip("/") == self.current_path.rstrip("/")
             ancestor_match = bool(target) and self.current_path.startswith(target.rstrip("/") + "/")
+            if target in {"research/", "people/"} and section == self.section:
+                ancestor_match = not exact_match
+            if target == "news/" and self.current_path.startswith(("events/", "introducing-the-cdt-phd-programme/")):
+                ancestor_match = True
             if not exact_match and not ancestor_match:
                 return
             self.stack[-1]["classes"].extend(
@@ -173,7 +179,7 @@ def build_site(input_dir: Path, output_dir: Path) -> dict[str, int]:
         replacements = {
             "HEAD": templates["head"],
             "HEADER": _NavigationParser(templates["header"], page_path).render(),
-            "CONTENT": content,
+            "CONTENT": render_collections(content, input_dir),
             "FOOTER": templates["footer"],
             "SCRIPTS": templates["scripts"],
         }

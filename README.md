@@ -1,6 +1,6 @@
-# AESE website — local static edition
+# AESE group website
 
-A static reproduction of the [AESE group website](https://wp.doc.ic.ac.uk/aese/), captured on 6 October 2026. It keeps the existing Academix design, navigation, photographs and historical content. Information has **not** been updated.
+A modern, fully English static website based on the [AESE group website](https://wp.doc.ic.ac.uk/aese/), captured on 6 October 2026. It reorganises the original resources into research, people, news and contact sections, with a shared responsive design. Historical research information and biographies have **not** been independently updated.
 
 ## Preview locally
 
@@ -12,7 +12,12 @@ Preview settings are at the bottom of `preview.py`. Change `port` if 8000 is alr
 
 | Location | Purpose |
 | --- | --- |
-| `content/pages/index.html` | Homepage content, slider and research cards |
+| `content/pages/index.html` | Homepage introduction, carousel and featured sections |
+| `content/pages/research/index.html` | Research overview and searchable project directory |
+| `content/pages/people/index.html` | Searchable, filterable people directory |
+| `content/pages/news/index.html` | Recognition and archived announcements |
+| `content/research.json` | Research groupings, theme cards and project directory |
+| `content/people.json` | People directory and category membership |
 | `content/pages/home/research/` | Research themes and project detail pages |
 | `content/pages/home/people/` | People listings, alumni and vacancies |
 | `content/pages/people/` | Individual profiles |
@@ -20,14 +25,16 @@ Preview settings are at the bottom of `preview.py`. Change `port` if 8000 is alr
 | `content/pages.json` | Page paths, titles and legacy URL aliases |
 | `templates/header.html` | Shared desktop and mobile navigation |
 | `templates/footer.html` | Shared footer |
-| `templates/head.html` | Shared theme styles and fonts |
+| `templates/head.html` | Shared metadata and favicon |
 | `templates/base.html` | Overall HTML layout |
-| `templates/scripts.html` | Original theme scripts |
-| `assets/css/static.css`, `assets/js/static.js` | Small static-site adaptations |
-| `assets/legacy/` | Original theme files, images and icon fonts |
+| `templates/scripts.html` | Shared modern controls |
+| `assets/css/modern.css`, `assets/js/modern.js` | Responsive visual system, carousel, menus and filtering |
+| `assets/images/home/` | Added group robot photographs |
+| `assets/legacy/` | Preserved original images and vendor resources |
 | `assets/fonts/`, `assets/external/` | Locally stored web fonts |
 | `site/` | Generated website; edit the sources above, then rebuild |
-| `.build/` | Disposable import caches, checks and preview logs; ignored by Git |
+| `site_content.py` | Expands collection markers into static directory cards |
+| `.build/` | Import caches, checks, previous design snapshot and preview logs; ignored by Git |
 
 Use `{{ROOT}}` in source HTML for internal links and assets, for example:
 
@@ -38,18 +45,18 @@ Use `{{ROOT}}` in source HTML for internal links and assets, for example:
 
 The builder replaces `{{ROOT}}` with the appropriate relative path at every page depth. To add a page, create its content HTML and add an entry to `content/pages.json`; add navigation links in the header or the relevant parent page. Rebuild with `build_site.py`.
 
-The retained `kc-css-*` classes and inline styles control the original page layouts. Start by changing text, links or images within those containers. Shared layout changes belong in `assets/css/static.css`.
+Shared layout changes belong in `assets/css/modern.css`. Directory cards are generated from the two JSON collections by `site_content.py`. The normal build requires only the Python standard library; one-time migration scripts under `.build/` are not needed. See [docs/DESIGN.md](docs/DESIGN.md) for the content hierarchy and editing guide.
 
 ## Included content and known gaps
 
-- **81 recovered pages**: homepage, 10 research themes, 20 projects, 41 profiles, 6 people/category pages, Find Us, DiveIn and news.
+- **91 content pages**: 81 recovered pages, 7 archive placeholders and 3 new overview pages. The research overview groups 10 themes into 4 areas and includes 20 projects; the people directory includes 41 recovered profiles.
 - **7 clearly labelled placeholder pages** for detail URLs that already returned 404 on the original site.
 - **11 legacy URL redirects**; navigation links use their working local destinations.
-- Theme scripts, images and fonts are served locally. External publication/personal/project links remain external; the Find Us Google Maps embed needs internet access.
-- The homepage's appended WordPress error document was removed. A few unavailable, unused theme background images were disabled. Other historical content and layout quirks are retained.
+- The new design uses local styles, scripts, photographs and system fonts. External publication/personal/project links remain external; the contact Google Maps embed needs internet access.
+- Historical announcements are labelled as archived. The old studentship notice remains in an expandable archive section on the opportunities page.
 
 See `docs/migration.json` for page provenance and the exact missing-page/resource inventory. Original university branding, photographs, content and vendor assets retain their respective ownership and notices.
 
-## GitHub Pages later
+## GitHub Pages
 
-The planned destination is `DarkSZChao/aese-page`. **No repository has been created, pushed or deployed.** The generated `site/` directory is ready for a future GitHub Pages deployment. It includes `.nojekyll` and uses relative links, including when served below `/aese-page/`. A deployment workflow can be added when publishing is requested.
+The repository is `DarkSZChao/AESE-page`. Its Pages workflow publishes the generated `site/` directory. Run `build_site.py` after source edits, then commit both the sources and generated output. The website includes `.nojekyll` and uses relative links for project Pages hosting. The modern redesign is prepared locally; committing and pushing are left to the repository owner.

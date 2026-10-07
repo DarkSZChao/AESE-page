@@ -2,531 +2,549 @@
   "pages": [
     {
       "path": "",
-      "title": "Adaptive Emergent Systems Engineering – Imperial College London",
-      "body_class": "home wp-singular page-template-default page page-id-2425 page-parent wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "title": "AESE | Adaptive Emergent Systems Engineering | Imperial College London",
+      "body_class": "modern-site home-page",
       "content": "content/pages/index.html"
     },
     {
       "path": "events/2020-presidents-medal-for-excellence-in-research/",
       "title": "2020 President’s Medal for Excellence in Research – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular event-template-default single single-event postid-3675 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/events/2020-presidents-medal-for-excellence-in-research/index.html"
     },
     {
       "path": "home/find-us/",
       "title": "Find Us – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3078 page-child parent-pageid-2425 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/find-us/index.html"
     },
     {
       "path": "home/people/",
       "title": "People – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3335 page-parent page-child parent-pageid-2425 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/people/index.html"
     },
     {
       "path": "home/people/alumni/",
       "title": "Alumni – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2334 page-child parent-pageid-3335 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/people/alumni/index.html"
     },
     {
       "path": "home/people/associates-and-external-collaborators/",
       "title": "External Associates and Collaborators – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2337 page-child parent-pageid-3335 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/people/associates-and-external-collaborators/index.html"
     },
     {
       "path": "home/people/phd-students/",
       "title": "Ph.D. Students – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-198 page-child parent-pageid-3335 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/people/phd-students/index.html"
     },
     {
       "path": "home/people/research-associates/",
       "title": "Research Associates – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2324 page-child parent-pageid-3335 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/people/research-associates/index.html"
     },
     {
       "path": "home/people/vacancies/",
       "title": "Vacancies – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-523 page-child parent-pageid-3335 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/people/vacancies/index.html"
     },
     {
       "path": "home/research/cyber-physical-systems/",
       "title": "Cyber-Physical Systems – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2442 page-parent page-child parent-pageid-3328 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/cyber-physical-systems/index.html"
     },
     {
       "path": "home/research/cyber-physical-systems/context-aware-systems-and-programming/",
       "title": "Context Aware Systems and Programming – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3551 page-child parent-pageid-2442 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/cyber-physical-systems/context-aware-systems-and-programming/index.html"
     },
     {
       "path": "home/research/cyber-physical-systems/project-cps-ctrl-reliable-distributed-adaptive-control-for-next-generation-cyber-physical-systems/",
       "title": "CPS-Ctrl: Reliable Distributed adaptive Control for Next Generation Cyber-physical Systems – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3279 page-child parent-pageid-2442 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/cyber-physical-systems/project-cps-ctrl-reliable-distributed-adaptive-control-for-next-generation-cyber-physical-systems/index.html"
     },
     {
       "path": "home/research/datacentric-engineering/",
       "title": "Datacentric Engineering – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2609 page-parent page-child parent-pageid-3328 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/datacentric-engineering/index.html"
     },
     {
       "path": "home/research/datacentric-engineering/constructing-a-real-time-cognitive-map-for-visually-impaired-individuals/",
       "title": "Constructing a Real-Time Cognitive Map for Visually Impaired Individuals – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-4137 page-child parent-pageid-2609 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/datacentric-engineering/constructing-a-real-time-cognitive-map-for-visually-impaired-individuals/index.html"
     },
     {
       "path": "home/research/energy-neutral-operation/",
       "title": "Energy Neutral Operation (ENO) – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2684 page-parent page-child parent-pageid-3328 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/energy-neutral-operation/index.html"
     },
     {
       "path": "home/research/energy-neutral-operation/decentralised-energy-harvesting/",
       "title": "Decentralised Energy Harvesting – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3544 page-child parent-pageid-2684 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/energy-neutral-operation/decentralised-energy-harvesting/index.html"
     },
     {
       "path": "home/research/infrastructureless-sensing/",
       "title": "Infrastructure-less Sensing – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2679 page-parent page-child parent-pageid-3328 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/infrastructureless-sensing/index.html"
     },
     {
       "path": "home/research/infrastructureless-sensing/data-mules/",
       "title": "Data Mules – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3537 page-child parent-pageid-2679 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/infrastructureless-sensing/data-mules/index.html"
     },
     {
       "path": "home/research/logistic-4-0/",
       "title": "Logistics 4.0 – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-4475 page-child parent-pageid-3328 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/logistic-4-0/index.html"
     },
     {
       "path": "home/research/rf-shadowing/",
       "title": "RF Sensing – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2686 page-parent page-child parent-pageid-3328 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/rf-shadowing/index.html"
     },
     {
       "path": "home/research/rf-shadowing/cognisense/",
       "title": "CogniSense – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3684 page-child parent-pageid-2686 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/rf-shadowing/cognisense/index.html"
     },
     {
       "path": "home/research/rf-shadowing/drone-self-monitoring/",
       "title": "Drone Self-Monitoring – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3700 page-child parent-pageid-2686 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/rf-shadowing/drone-self-monitoring/index.html"
     },
     {
       "path": "home/research/rf-shadowing/sing/",
       "title": "RF Sensing in Grapes (SING) – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3709 page-child parent-pageid-2686 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/rf-shadowing/sing/index.html"
     },
     {
       "path": "home/research/security-safety-and-resilience/",
       "title": "Security, Safety and Resilience – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2605 page-parent page-child parent-pageid-3328 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/security-safety-and-resilience/index.html"
     },
     {
       "path": "home/research/security-safety-and-resilience/decentralised-edge-compute-and-multi-tenancy/",
       "title": "Decentralised Edge-Compute and Multi-Tenancy – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3874 page-child parent-pageid-2605 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/security-safety-and-resilience/decentralised-edge-compute-and-multi-tenancy/index.html"
     },
     {
       "path": "home/research/security-safety-and-resilience/secret-key-generation-from-wireless-channel-randomness/",
       "title": "Secret Key Generation from Wireless Channel Randomness – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-4572 page-child parent-pageid-2605 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/security-safety-and-resilience/secret-key-generation-from-wireless-channel-randomness/index.html"
     },
     {
       "path": "home/research/security-safety-and-resilience/self-adaptive-autonomics-and-emergence/",
       "title": "Self-Adaptive, Autonomics and Emergence – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3563 page-child parent-pageid-2605 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/security-safety-and-resilience/self-adaptive-autonomics-and-emergence/index.html"
     },
     {
       "path": "home/research/security-safety-and-resilience/sensor-systems-security/",
       "title": "Sensor Systems Security – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3430 page-child parent-pageid-2605 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/security-safety-and-resilience/sensor-systems-security/index.html"
     },
     {
       "path": "home/research/sensing-challenge/",
       "title": "Sensing in Challenging Environments – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2673 page-parent page-child parent-pageid-3328 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/sensing-challenge/index.html"
     },
     {
       "path": "home/research/sensing-challenge/fuse-floodplain-underground-sensor-network/",
       "title": "FUSE- Floodplain Underground Sensor Network – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3497 page-child parent-pageid-2673 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/sensing-challenge/fuse-floodplain-underground-sensor-network/index.html"
     },
     {
       "path": "home/research/sustainability/",
       "title": "Sustainability & Smart Environments – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2677 page-parent page-child parent-pageid-3328 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/sustainability/index.html"
     },
     {
       "path": "home/research/sustainability/icri-sustainable-connected-cities-institute/",
       "title": "ICRI Sustainable Connected Cities Institute – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3460 page-child parent-pageid-2677 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/sustainability/icri-sustainable-connected-cities-institute/index.html"
     },
     {
       "path": "home/research/sustainability/singapore-eco-lab/",
       "title": "Singapore Eco Lab – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3768 page-child parent-pageid-2677 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/sustainability/singapore-eco-lab/index.html"
     },
     {
       "path": "home/research/sustainability/smart-water-projects/",
       "title": "Smart Water Projects – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3453 page-child parent-pageid-2677 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/sustainability/smart-water-projects/index.html"
     },
     {
       "path": "home/research/sustainability/wefwebs-mapping-the-water-energy-food-nexus/",
       "title": "WefWebs: Mapping the Water Energy Food Nexus – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3352 page-child parent-pageid-2677 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/sustainability/wefwebs-mapping-the-water-energy-food-nexus/index.html"
     },
     {
       "path": "home/research/wireless-communications/",
       "title": "Wireless Communications – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-2681 page-parent page-child parent-pageid-3328 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/wireless-communications/index.html"
     },
     {
       "path": "home/research/wireless-communications/lora-modelling-performance-analysis-and-optimization/",
       "title": "LoRa: Modelling,  Performance Analysis and Optimization – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3734 page-child parent-pageid-2681 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/wireless-communications/lora-modelling-performance-analysis-and-optimization/index.html"
     },
     {
       "path": "home/research/wireless-communications/lora-networks-powered-by-ambient-energy-harvesting/",
       "title": "LoRa Networks Powered by Ambient Energy Harvesting – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3746 page-child parent-pageid-2681 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/wireless-communications/lora-networks-powered-by-ambient-energy-harvesting/index.html"
     },
     {
       "path": "home/research/wireless-communications/non-orthogonal-multiple-access-noma-enabled-lpwa-networks/",
       "title": "Non-Orthogonal Multiple Access (NOMA) Enabled LPWA Networks – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-3750 page-child parent-pageid-2681 wp-custom-logo wp-theme-academix color0 kingcomposer kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/wireless-communications/non-orthogonal-multiple-access-noma-enabled-lpwa-networks/index.html"
     },
     {
       "path": "introducing-the-cdt-phd-programme/",
       "title": "Introducing the DiveIn CDT PhD Programme – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular page-template-default page page-id-4728 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/introducing-the-cdt-phd-programme/index.html"
     },
     {
       "path": "people/4652/",
       "title": "Dr Attique Dawood – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-4652 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/4652/index.html"
     },
     {
       "path": "people/dr-aisha-junejo/",
       "title": "Dr Aisha Junejo – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2978 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-aisha-junejo/index.html"
     },
     {
       "path": "people/dr-anqi-fu/",
       "title": "Dr Anqi Fu – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2304 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-anqi-fu/index.html"
     },
     {
       "path": "people/dr-babu-choudhary/",
       "title": "Dr Babu Choudhary – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2306 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-babu-choudhary/index.html"
     },
     {
       "path": "people/dr-cong-zhao/",
       "title": "Dr Cong Zhao – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2298 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-cong-zhao/index.html"
     },
     {
       "path": "people/dr-di-wu/",
       "title": "Dr Di Wu – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3021 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-di-wu/index.html"
     },
     {
       "path": "people/dr-eskindir-asmare/",
       "title": "Dr Eskindir Asmare – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3011 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-eskindir-asmare/index.html"
     },
     {
       "path": "people/dr-fatma-benkhelifa/",
       "title": "Dr Fatma Benkhelifa – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2280 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-fatma-benkhelifa/index.html"
     },
     {
       "path": "people/dr-fengrui-shi/",
       "title": "Dr Fengrui Shi – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2994 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-fengrui-shi/index.html"
     },
     {
       "path": "people/dr-ivana-tomic/",
       "title": "Dr Ivana Tomic – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2996 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-ivana-tomic/index.html"
     },
     {
       "path": "people/dr-mehrdad-babazadeh/",
       "title": "Dr Mehrdad Babazadeh – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3013 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-mehrdad-babazadeh/index.html"
     },
     {
       "path": "people/dr-michael-breza/",
       "title": "Dr Michael Breza – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2292 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-michael-breza/index.html"
     },
     {
       "path": "people/dr-milan-kabac/",
       "title": "Dr Milan Kabáč – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2310 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-milan-kabac/index.html"
     },
     {
       "path": "people/dr-mohammad-heggo/",
       "title": "Dr Mohammad Heggo – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2928 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-mohammad-heggo/index.html"
     },
     {
       "path": "people/dr-pamela-bezerra/",
       "title": "Dr Pamela Bezerra – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2286 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-pamela-bezerra/index.html"
     },
     {
       "path": "people/dr-pedro-baiz/",
       "title": "Dr Pedro Baiz – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3000 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-pedro-baiz/index.html"
     },
     {
       "path": "people/dr-pedro-martins/",
       "title": "Dr Pedro Martins – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3017 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-pedro-martins/index.html"
     },
     {
       "path": "people/dr-po-yu-chen/",
       "title": "Dr Po-Yu Chen – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2295 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-po-yu-chen/index.html"
     },
     {
       "path": "people/dr-rajkumar-rajprasad-kumar/",
       "title": "Dr Rajkumar, Rajprasad Kumar – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-4654 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-rajkumar-rajprasad-kumar/index.html"
     },
     {
       "path": "people/dr-reza-akhavan/",
       "title": "Dr Reza Akhavan – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3009 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-reza-akhavan/index.html"
     },
     {
       "path": "people/dr-roman-kolcun/",
       "title": "Dr Roman Kolcun – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2312 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-roman-kolcun/index.html"
     },
     {
       "path": "people/dr-sokratis-kartakis/",
       "title": "Dr Sokratis Kartakis – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3015 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-sokratis-kartakis/index.html"
     },
     {
       "path": "people/dr-usman-adeel/",
       "title": "Dr Usman Adeel – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3006 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-usman-adeel/index.html"
     },
     {
       "path": "people/dr-weiren-yu/",
       "title": "Dr Weiren Yu – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2302 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-weiren-yu/index.html"
     },
     {
       "path": "people/dr-yad-tahir/",
       "title": "Dr Yad Tahir – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3019 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-yad-tahir/index.html"
     },
     {
       "path": "people/dr-yunxi-li/",
       "title": "Dr Yunxi Li – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3003 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-yunxi-li/index.html"
     },
     {
       "path": "people/dr-zhijin-qin/",
       "title": "Dr Zhijin Qin – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2990 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/dr-zhijin-qin/index.html"
     },
     {
       "path": "people/hadeel-surougi/",
       "title": "Hadeel Surougi – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2806 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/hadeel-surougi/index.html"
     },
     {
       "path": "people/heba-abdelnasser-awad/",
       "title": "Heba Abdelnasser Awad – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2820 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/heba-abdelnasser-awad/index.html"
     },
     {
       "path": "people/julie-a-mccann/",
       "title": "Prof. Julie A. McCann (Head of AESE) – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2200 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/julie-a-mccann/index.html"
     },
     {
       "path": "people/kaihan-li/",
       "title": "Kaihan Li – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-4640 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/kaihan-li/index.html"
     },
     {
       "path": "people/kunyi-chen/",
       "title": "Ms Kunyi Chen – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-4377 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/kunyi-chen/index.html"
     },
     {
       "path": "people/mr-boon-wong/",
       "title": "Dr. Denver Wong Boon Chun – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2743 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/mr-boon-wong/index.html"
     },
     {
       "path": "people/mr-greg-jackson/",
       "title": "Dr Greg Jackson – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2308 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/mr-greg-jackson/index.html"
     },
     {
       "path": "people/mr-laksh-bhatia/",
       "title": "Mr Laksh Bhatia – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2290 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/mr-laksh-bhatia/index.html"
     },
     {
       "path": "people/mr-shuokang-huang/",
       "title": "Mr Shuokang Huang  – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-4649 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/mr-shuokang-huang/index.html"
     },
     {
       "path": "people/mr-zhenfei-zhu/",
       "title": "Mr Zhenfei Zhu – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2913 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/mr-zhenfei-zhu/index.html"
     },
     {
       "path": "people/ms-eman-maali/",
       "title": "Ms Eman Maali – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-4695 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/ms-eman-maali/index.html"
     },
     {
       "path": "people/ms-yathreb-bouazizi/",
       "title": "Ms Yathreb Bouazizi – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2936 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/ms-yathreb-bouazizi/index.html"
     },
     {
       "path": "people/professor-shusen-yang/",
       "title": "Professor Shusen Yang – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-2300 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/professor-shusen-yang/index.html"
     },
     {
       "path": "people/youssef-altherwy/",
       "title": "Mr Youssef Altherwy – Adaptive Emergent Systems Engineering",
-      "body_class": "wp-singular team-template-default single single-team postid-3711 wp-custom-logo wp-theme-academix color0 kc-css-system",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/youssef-altherwy/index.html"
     },
     {
       "path": "home/research/datacentric-engineering/incentivisation-of-participatory-federated-learning/",
       "title": "Incentivisation Of Participatory Federated Learning – Adaptive Emergent Systems Engineering",
-      "body_class": "page wp-theme-academix color0",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/home/research/datacentric-engineering/incentivisation-of-participatory-federated-learning/index.html"
     },
     {
       "path": "human-centric-sensing/",
       "title": "Human Centric Sensing – Adaptive Emergent Systems Engineering",
-      "body_class": "page wp-theme-academix color0",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/human-centric-sensing/index.html"
     },
     {
       "path": "project-adaptive-machine-learning-for-changing-environments/",
       "title": "Project Adaptive Machine Learning For Changing Environments – Adaptive Emergent Systems Engineering",
-      "body_class": "page wp-theme-academix color0",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/project-adaptive-machine-learning-for-changing-environments/index.html"
     },
     {
       "path": "project-failure-localisation-and-diagnosis-in-wireless-sensor-networks/",
       "title": "Project Failure Localisation And Diagnosis In Wireless Sensor Networks – Adaptive Emergent Systems Engineering",
-      "body_class": "page wp-theme-academix color0",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/project-failure-localisation-and-diagnosis-in-wireless-sensor-networks/index.html"
     },
     {
       "path": "project-organicity/",
       "title": "Project Organicity – Adaptive Emergent Systems Engineering",
-      "body_class": "page wp-theme-academix color0",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/project-organicity/index.html"
     },
     {
       "path": "project/self-generating-space-sensing-systems/",
       "title": "Self Generating Space Sensing Systems – Adaptive Emergent Systems Engineering",
-      "body_class": "page wp-theme-academix color0",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/project/self-generating-space-sensing-systems/index.html"
     },
     {
       "path": "people/mr-michael-johnson/",
       "title": "Mr Michael Johnson – Adaptive Emergent Systems Engineering",
-      "body_class": "page wp-theme-academix color0",
+      "body_class": "modern-site interior-page",
       "content": "content/pages/people/mr-michael-johnson/index.html"
+    },
+    {
+      "path": "research/",
+      "title": "Research | AESE · Imperial College London",
+      "body_class": "modern-site interior-page",
+      "content": "content/pages/research/index.html"
+    },
+    {
+      "path": "people/",
+      "title": "People | AESE · Imperial College London",
+      "body_class": "modern-site interior-page",
+      "content": "content/pages/people/index.html"
+    },
+    {
+      "path": "news/",
+      "title": "News & opportunities | AESE · Imperial College London",
+      "body_class": "modern-site interior-page",
+      "content": "content/pages/news/index.html"
     }
   ],
   "aliases": {
