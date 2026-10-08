@@ -1,6 +1,6 @@
 # AESE group website
 
-A modern, fully English static website based on the [AESE group website](https://wp.doc.ic.ac.uk/aese/), captured on 6 October 2026. It reorganises the original resources into research, people, news and contact sections, with a shared responsive design. Historical research information and biographies have **not** been independently updated.
+A fully English static website based on the [AESE group website](https://wp.doc.ic.ac.uk/aese/), captured on 6 October 2026. Its academic layout takes inspiration from [ARPG](https://arpg.colorado.edu/), with an independent deep-blue palette and AESE's own content. Main sections are Research, People, Publications, Resources and Contact. Historical research information and biographies have **not** been independently updated.
 
 ## Preview locally
 
@@ -16,6 +16,8 @@ Preview settings are at the bottom of `preview.py`. Change `port` if 8000 is alr
 | `content/pages/research/index.html` | Research overview and searchable project directory |
 | `content/pages/people/index.html` | Searchable, filterable people directory |
 | `content/pages/news/index.html` | Recognition and archived announcements |
+| `content/pages/publications/index.html` | Official Imperial publication record access |
+| `content/pages/resources/index.html` | Group resources and programme entry points |
 | `content/research.json` | Research groupings, theme cards and project directory |
 | `content/people.json` | People directory and category membership |
 | `content/pages/home/research/` | Research themes and project detail pages |
@@ -29,6 +31,7 @@ Preview settings are at the bottom of `preview.py`. Change `port` if 8000 is alr
 | `templates/base.html` | Overall HTML layout |
 | `templates/scripts.html` | Shared modern controls |
 | `assets/css/modern.css`, `assets/js/modern.js` | Responsive visual system, carousel, menus and filtering |
+| `assets/css/academic.css` | Academic layout, circular portraits and deep-blue palette |
 | `assets/images/home/` | Added group robot photographs |
 | `assets/legacy/` | Preserved original images and vendor resources |
 | `assets/fonts/`, `assets/external/` | Locally stored web fonts |
@@ -45,11 +48,11 @@ Use `{{ROOT}}` in source HTML for internal links and assets, for example:
 
 The builder replaces `{{ROOT}}` with the appropriate relative path at every page depth. To add a page, create its content HTML and add an entry to `content/pages.json`; add navigation links in the header or the relevant parent page. Rebuild with `build_site.py`.
 
-Shared layout changes belong in `assets/css/modern.css`. Directory cards are generated from the two JSON collections by `site_content.py`. The normal build requires only the Python standard library; one-time migration scripts under `.build/` are not needed. See [docs/DESIGN.md](docs/DESIGN.md) for the content hierarchy and editing guide.
+Shared base components are in `assets/css/modern.css`; the current academic layout and palette are in `assets/css/academic.css`. Directory cards and homepage research/people sections are generated from the two JSON collections by `site_content.py`. The normal build requires only the Python standard library; one-time migration scripts under `.build/` are not needed. See [docs/DESIGN.md](docs/DESIGN.md) for the content hierarchy and editing guide.
 
 ## Included content and known gaps
 
-- **91 content pages**: 81 recovered pages, 7 archive placeholders and 3 new overview pages. The research overview groups 10 themes into 4 areas and includes 20 projects; the people directory includes 41 recovered profiles.
+- **93 content pages**: 81 recovered pages, 7 archive placeholders and 5 new overview pages. The research overview groups 10 themes into 4 areas and includes 20 projects; the people directory includes 41 recovered profiles.
 - **7 clearly labelled placeholder pages** for detail URLs that already returned 404 on the original site.
 - **11 legacy URL redirects**; navigation links use their working local destinations.
 - The new design uses local styles, scripts, photographs and system fonts. External publication/personal/project links remain external; the contact Google Maps embed needs internet access.

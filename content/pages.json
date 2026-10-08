@@ -545,6 +545,18 @@
       "title": "News & opportunities | AESE · Imperial College London",
       "body_class": "modern-site interior-page",
       "content": "content/pages/news/index.html"
+    },
+    {
+      "path": "publications/",
+      "title": "Publications | AESE | Imperial College London",
+      "body_class": "modern-site interior-page",
+      "content": "content/pages/publications/index.html"
+    },
+    {
+      "path": "resources/",
+      "title": "Resources | AESE | Imperial College London",
+      "body_class": "modern-site interior-page",
+      "content": "content/pages/resources/index.html"
     }
   ],
   "aliases": {

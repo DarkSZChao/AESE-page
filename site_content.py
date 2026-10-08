@@ -51,6 +51,21 @@ def directory(items, filters, kind, initial="all"):
 
 
 def render_collections(content: str, input_dir: Path) -> str:
+    if "{{HOME_" in content:
+        research = json.loads((input_dir / "content/research.json").read_text(encoding="utf-8"))
+        people = json.loads((input_dir / "content/people.json").read_text(encoding="utf-8"))["people"]
+        rows = []
+        for group in research["groups"]:
+            themes = [item for item in research["themes"] if item["group"] == group["id"]]
+            projects = [item for item in research["projects"] if item["group"] == group["id"]][:3]
+            links = ''.join('<li><a href="' + _link(item["path"]) + '">' + escape(item["title"]) + '</a><span>' + escape(item.get("theme", "Research project")) + '</span></li>' for item in projects)
+            rows.append('<article class="research-row"><a class="research-row-image" href="' + _link('research/') + '#' + group["id"] + '" aria-label="Explore ' + escape(group["title"], quote=True) + '">' + _image(themes[0]["image"], '') + '</a><div class="research-row-body"><h3><a href="' + _link('research/') + '#' + group["id"] + '">' + escape(group["title"]) + '</a></h3><p>' + escape(group["description"]) + '</p><a class="text-link" href="' + _link('research/') + '#' + group["id"] + '">Research themes &rarr;</a><ul class="research-row-links">' + links + '</ul></div></article>')
+        content = content.replace("{{HOME_RESEARCH}}", ''.join(rows))
+        students = [person for person in people if 'phd' in person['groups']]
+        alumni = [person for person in people if 'alumni' in person['groups']]
+        student_cards = ''.join(people_card(person) for person in students)
+        alumni_links = ''.join('<li><a href="' + _link(person['path']) + '">' + escape(person['name']) + '</a></li>' for person in alumni)
+        content = content.replace("{{HOME_PEOPLE}}", '<h3 class="subsection-title">PhD students</h3><div class="people-grid compact-people">' + student_cards + '</div><details class="alumni-disclosure"><summary>Alumni &amp; former members</summary><ul class="alumni-links">' + alumni_links + '</ul></details>')
     if "{{RESEARCH_" in content or "{{FEATURED_PROJECTS}}" in content:
         research = json.loads((input_dir / "content/research.json").read_text(encoding="utf-8"))
         groups = research["groups"]
